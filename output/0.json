@@ -1,0 +1,1512 @@
+[
+  {
+    "question": "When you do not want to go to school, what is the illness you make up as an excuse?",
+    "answer": [
+      "Stomachache",
+      "Headache",
+      "Fever",
+      "Ear pain",
+      "Cough"
+    ]
+  },
+  {
+    "question": "Why do you love summer?",
+    "answer": [
+      "Summer vacation",
+      "Can go to the beach",
+      "The weather",
+      "Can eat ice cream",
+      "Can go out and play"
+    ]
+  },
+  {
+    "question": "What is one thing your parents tell you not to waste?",
+    "answer": [
+      "Water",
+      "Money",
+      "Time",
+      "Life",
+      "Food"
+    ]
+  },
+  {
+    "question": "Which is a kid\u2019s favorite snack at the movie theater?",
+    "answer": [
+      "Popcorn",
+      "Nachos",
+      "French fries",
+      "Chips",
+      "Tacos"
+    ]
+  },
+  {
+    "question": "What is that one thing that you will never forget to pack on a trip?",
+    "answer": [
+      "Money",
+      "Underwear",
+      "Toothbrush",
+      "Medicines",
+      "Camera"
+    ]
+  },
+  {
+    "question": "When do kids close their eye?",
+    "answer": [
+      "Sleep",
+      "Prayer",
+      "Horror movie",
+      "Hide and seek",
+      "Making a wish"
+    ]
+  },
+  {
+    "question": "What would you find on a man\u2019s arm?",
+    "answer": [
+      "Watch",
+      "Bracelet",
+      "Tattoo",
+      "Hair",
+      "Scar"
+    ]
+  },
+  {
+    "question": "Name something people put in their front yard.",
+    "answer": [
+      "Garden gnome",
+      "Flowering plants",
+      "Fence",
+      "Letterbox",
+      "Fountain"
+    ]
+  },
+  {
+    "question": "Which household chore do kids hate doing?",
+    "answer": [
+      "Cleaning their room",
+      "Walking the dog",
+      "Vacuuming",
+      "Mowing the lawn",
+      "Raking leaves"
+    ]
+  },
+  {
+    "question": "What does a wrestler not wear during a match?",
+    "answer": [
+      "Pants",
+      "Glasses",
+      "Shirt",
+      "Jewelry",
+      "A skirt"
+    ]
+  },
+  {
+    "question": "What do moms tell their kids to do before dinner?",
+    "answer": [
+      "Wash hands",
+      "Set the table",
+      "Not to eat snacks",
+      "Do homework",
+      "Pray"
+    ]
+  },
+  {
+    "question": "Name something or someone that has fangs.",
+    "answer": [
+      "Vampire",
+      "Snake",
+      "Wolf",
+      "Tiger",
+      "Werewolf"
+    ]
+  },
+  {
+    "question": "What do kids often manage to lose?",
+    "answer": [
+      "Money",
+      "Toys",
+      "Books",
+      "Pencil box",
+      "Handkerchief"
+    ]
+  },
+  {
+    "question": "What does a dog do most of the time?",
+    "answer": [
+      "Sleep",
+      "Eat",
+      "Bark",
+      "Play",
+      "Dig"
+    ]
+  },
+  {
+    "question": "Where do kids dislike going the most?",
+    "answer": [
+      "Dentist",
+      "Bed",
+      "School",
+      "Shopping",
+      "Relatives house"
+    ]
+  },
+  {
+    "question": "What do you do when you put hot food in your mouth?",
+    "answer": [
+      "Spit it out",
+      "Gulp it",
+      "Drink water",
+      "Shout \u201chot, hot\u201d",
+      "Choke"
+    ]
+  },
+  {
+    "question": "Name a word that has \u2018key\u2019 in it.",
+    "answer": [
+      "Monkey",
+      "Key chain",
+      "Keyboard",
+      "House key",
+      "Keystone"
+    ]
+  },
+  {
+    "question": "What do people do on Christmas Eve?",
+    "answer": [
+      "Decorate the tree",
+      "Go to church",
+      "Have a family dinner",
+      "Sing carols",
+      "Meet friends"
+    ]
+  },
+  {
+    "question": "What is that you do before going to bed?",
+    "answer": [
+      "Brush teeth",
+      "Say prayers",
+      "Change into pajamas",
+      "Drink water",
+      "Complete homework"
+    ]
+  },
+  {
+    "question": "In which place are you told to keep quiet?",
+    "answer": [
+      "Library",
+      "Movie theater",
+      "Hospital",
+      "Place of worship",
+      "Classroom"
+    ]
+  },
+  {
+    "question": "What would you do when you fall sick?",
+    "answer": [
+      "Not go to school",
+      "Take medicine",
+      "Sleep",
+      "Go to the doctor",
+      "Throw up"
+    ]
+  },
+  {
+    "question": "Name something that is cold.",
+    "answer": [
+      "Ice",
+      "Popsicle",
+      "Water",
+      "Weather",
+      "Wind"
+    ]
+  },
+  {
+    "question": "When would your teacher want to talk to your parents?",
+    "answer": [
+      "Bad grades",
+      "Bullying",
+      "Not doing homework",
+      "Cheating in exams",
+      "Misbehaving in class"
+    ]
+  },
+  {
+    "question": "What would you find in a deserted house?",
+    "answer": [
+      "Dust",
+      "Spider webs",
+      "Rats",
+      "Ghosts",
+      "Weeds"
+    ]
+  },
+  {
+    "question": "What could an astronaut see out of the window of the space station?",
+    "answer": [
+      "Earth",
+      "Moon",
+      "Space",
+      "Satellites",
+      "Comet"
+    ]
+  },
+  {
+    "question": "What is used to write?",
+    "answer": [
+      "Pen",
+      "Chalk",
+      "Crayon",
+      "Paintbrush",
+      "Keyboard"
+    ]
+  },
+  {
+    "question": "What would you find in a salad?",
+    "answer": [
+      "Lettuce",
+      "Tomato",
+      "Chicken",
+      "Dressing",
+      "Nuts"
+    ]
+  },
+  {
+    "question": "What melts when it gets hot?",
+    "answer": [
+      "Snow",
+      "Candle",
+      "Butter",
+      "Cheese",
+      "Crayon"
+    ]
+  },
+  {
+    "question": "What goes into a sandwich?",
+    "answer": [
+      "Bread",
+      "Lettuce",
+      "Butter",
+      "Peanut",
+      "Jam"
+    ]
+  },
+  {
+    "question": "How do people move from one place to another?",
+    "answer": [
+      "Walk",
+      "Drive",
+      "Train",
+      "Swim",
+      "Ride"
+    ]
+  },
+  {
+    "question": "What comes to your mind when you hear the word magic?",
+    "answer": [
+      "Harry Potter",
+      "Genie",
+      "Fairy godmother",
+      "Magic wand",
+      "Magic hat"
+    ]
+  },
+  {
+    "question": "What do kids throw at each other?",
+    "answer": [
+      "Paper balls",
+      "Water balloons",
+      "Snowballs",
+      "Pillows",
+      "Food"
+    ]
+  },
+  {
+    "question": "What vegetable do you dislike eating?",
+    "answer": [
+      "Broccoli",
+      "Carrot",
+      "Brussels sprouts",
+      "Peas",
+      "Spinach"
+    ]
+  },
+  {
+    "question": "What is your excuse for not doing homework?",
+    "answer": [
+      "Forgot at home",
+      "Fever",
+      "Left at school",
+      "Book got stolen",
+      "Dog ate it"
+    ]
+  },
+  {
+    "question": "Which high school subject do kids consider tough?",
+    "answer": [
+      "Math",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "English"
+    ]
+  },
+  {
+    "question": "What do kids often ask before going to bed?",
+    "answer": [
+      "Some more time to stay awake",
+      "One more story",
+      "Snacks",
+      "Water",
+      "To kiss goodnight"
+    ]
+  },
+  {
+    "question": "Which food would make kids healthy and strong?",
+    "answer": [
+      "Milk",
+      "Vegetables",
+      "Fruits",
+      "Nuts",
+      "Protein drinks"
+    ]
+  },
+  {
+    "question": "What do kids do in summer to earn an allowance?",
+    "answer": [
+      "Mow lawns",
+      "Put up a lemonade stand",
+      "Babysit",
+      "Deliver newspapers",
+      "Work at a restaurant"
+    ]
+  },
+  {
+    "question": "What do you hate the most about school?",
+    "answer": [
+      "Homework",
+      "Getting up early",
+      "Math",
+      "Teacher",
+      "Bullies"
+    ]
+  },
+  {
+    "question": "What do kids do during summer vacation?",
+    "answer": [
+      "Go camping",
+      "Picnic",
+      "Go for a workshop",
+      "Watch TV",
+      "Go on vacation"
+    ]
+  },
+  {
+    "question": "Which games do kids play when in kindergarten?",
+    "answer": [
+      "Tag",
+      "Ring around rosy",
+      "Hide and seek",
+      "Hopscotch",
+      "Musical chairs"
+    ]
+  },
+  {
+    "question": "What are the things kids are not allowed to play with?",
+    "answer": [
+      "Matches",
+      "Knives",
+      "Chemicals",
+      "Fire",
+      "Automobiles"
+    ]
+  },
+  {
+    "question": "What are the accessories kids put on their bikes?",
+    "answer": [
+      "Basket",
+      "Stickers",
+      "Ribbons",
+      "Bell",
+      "Headlight"
+    ]
+  },
+  {
+    "question": "What are kids afraid of?",
+    "answer": [
+      "Ghosts",
+      "Darkness",
+      "Thunder",
+      "Teacher",
+      "Strangers"
+    ]
+  },
+  {
+    "question": "What do kids love to eat, but is not good for health?",
+    "answer": [
+      "Candy",
+      "Chips",
+      "Burgers",
+      "French fries",
+      "Ice creams"
+    ]
+  },
+  {
+    "question": "What do kids brag about their dads?",
+    "answer": [
+      "Strong",
+      "Fearless",
+      "Has a cool job",
+      "Takes them to places",
+      "Has a cool car"
+    ]
+  },
+  {
+    "question": "What do parents never allow kids to skip?",
+    "answer": [
+      "Breakfast",
+      "Brushing teeth",
+      "Bedtime",
+      "Homework",
+      "Cleaning room"
+    ]
+  },
+  {
+    "question": "What do kids aspire to become when they grow up?",
+    "answer": [
+      "Astronaut",
+      "Race car driver",
+      "Police officer",
+      "Pilot",
+      "Firefighter"
+    ]
+  },
+  {
+    "question": "What do kids learn to make at nursery school?",
+    "answer": [
+      "Drawing",
+      "Painting",
+      "Dancing",
+      "Singing",
+      "Clay moulding"
+    ]
+  },
+  {
+    "question": "What are the things that are in pairs?",
+    "answer": [
+      "Shoes",
+      "Socks",
+      "Eyes",
+      "Twins",
+      "Hands"
+    ]
+  },
+  {
+    "question": "Name a reason for people to wake up in the middle of the night.",
+    "answer": [
+      "Need to visit the bathroom",
+      "Bad dream",
+      "Hunger/thirst",
+      "Attend a crying child",
+      "Heard a noise"
+    ]
+  },
+  {
+    "question": "What could be the reason for going late to work?",
+    "answer": [
+      "Getting up late",
+      "Traffic",
+      "Bus delay",
+      "Weather",
+      "Car breakdown"
+    ]
+  },
+  {
+    "question": "What is the first thing you do after waking up?",
+    "answer": [
+      "Open eyes",
+      "Visit the bathroom",
+      "Brush teeth",
+      "Shower",
+      "Turn off the alarm"
+    ]
+  },
+  {
+    "question": "Where do you not have cell phone reception?",
+    "answer": [
+      "In basements",
+      "Inside tunnels",
+      "On the mountain",
+      "In a flight",
+      "On a boat"
+    ]
+  },
+  {
+    "question": "Which plant are you likely to grow in your garden?",
+    "answer": [
+      "Coriander",
+      "Tomatoes",
+      "Roses",
+      "Thyme",
+      "Chilies"
+    ]
+  },
+  {
+    "question": "After taking a selfie, whom are you likely to send it?",
+    "answer": [
+      "Spouse/ partner",
+      "Friends",
+      "Parents",
+      "Colleagues",
+      "Social media"
+    ]
+  },
+  {
+    "question": "Name someone you might go for advice.",
+    "answer": [
+      "Parents",
+      "Partner/ spouse",
+      "Best friends",
+      "Boss/manager",
+      "Relatives"
+    ]
+  },
+  {
+    "question": "What would you never leave home without?",
+    "answer": [
+      "Mobile phone",
+      "Money",
+      "House keys",
+      "Water bottle",
+      "Car keys"
+    ]
+  },
+  {
+    "question": "Name the chores you tend to procrastinate.",
+    "answer": [
+      "Cleaning room",
+      "Dishes",
+      "Taking out trash",
+      "Laundry",
+      "Grocery shopping"
+    ]
+  },
+  {
+    "question": "What is the advantage of working from home?",
+    "answer": [
+      "No traveling",
+      "Flexible working hours",
+      "Spend time with family",
+      "No dress code",
+      "Save money"
+    ]
+  },
+  {
+    "question": "What do you have in your wallet?",
+    "answer": [
+      "Money",
+      "Credit card",
+      "Driver\u2019s license",
+      "Photo of the family/spouse",
+      "Bills"
+    ]
+  },
+  {
+    "question": "What are the annoying things other drivers do?",
+    "answer": [
+      "Overtake from the wrong side",
+      "Blow the horn continuously",
+      "Talk on the cell phone",
+      "Not use turn signals",
+      "Drive too fast"
+    ]
+  },
+  {
+    "question": "What are the places where you are not allowed to touch anything?",
+    "answer": [
+      "Museum",
+      "Art gallery",
+      "Zoo",
+      "Gift shop",
+      "Gentleman\u2019s club"
+    ]
+  },
+  {
+    "question": "Name another word for \u2018restaurant\u2019.",
+    "answer": [
+      "Diner",
+      "Cafe",
+      "Coffee shop",
+      "Cafeteria",
+      "Burger joint"
+    ]
+  },
+  {
+    "question": "When deserted on an island, you will first search for?",
+    "answer": [
+      "Water",
+      "Help",
+      "Food",
+      "Shelter",
+      "Clothes"
+    ]
+  },
+  {
+    "question": "People call them when in need of help.",
+    "answer": [
+      "Friends",
+      "Police",
+      "Fire department",
+      "Neighbors",
+      "Parents"
+    ]
+  },
+  {
+    "question": "Something you will find in a park.",
+    "answer": [
+      "Trees",
+      "Grass",
+      "Benches",
+      "Swings",
+      "Birds"
+    ]
+  },
+  {
+    "question": "Name a fruit that takes time to break into.",
+    "answer": [
+      "Coconut",
+      "Pomegranate",
+      "Watermelon",
+      "Jackfruit",
+      "Pineapple"
+    ]
+  },
+  {
+    "question": "The name of an animal that begins with the letter \u2018M\u2019",
+    "answer": [
+      "Monkey",
+      "Mouse",
+      "Moose",
+      "Mule",
+      "Mongoose"
+    ]
+  },
+  {
+    "question": "When you are tensed, what is that one thing that can ease you?",
+    "answer": [
+      "Music",
+      "A call with a friend",
+      "A drink",
+      "Chocolate",
+      "A nice nap"
+    ]
+  },
+  {
+    "question": "Name something which you will keep on your office desk.",
+    "answer": [
+      "Computer",
+      "Notepad",
+      "Pen stand",
+      "Water bottle",
+      "Picture of spouse/ child"
+    ]
+  },
+  {
+    "question": "Name something you buy that is disposable.",
+    "answer": [
+      "Paper plates",
+      "Razors",
+      "Syringes",
+      "Garbage bags",
+      "Diapers"
+    ]
+  },
+  {
+    "question": "Something you use while sleeping at night.",
+    "answer": [
+      "Pajamas",
+      "Teddy bear",
+      "Bed lamp",
+      "Blanket",
+      "Pillow"
+    ]
+  },
+  {
+    "question": "What is that you need to build a house?",
+    "answer": [
+      "Bricks",
+      "Wood",
+      "Cement",
+      "Iron",
+      "Sand"
+    ]
+  },
+  {
+    "question": "Name something you will cut with scissors.",
+    "answer": [
+      "Paper",
+      "Cloth",
+      "Ribbon",
+      "Hair",
+      "Tags on clothes"
+    ]
+  },
+  {
+    "question": "Name a big animal.",
+    "answer": [
+      "Elephant",
+      "Rhinoceros",
+      "Bear",
+      "Hippopotamus",
+      "Buffalo"
+    ]
+  },
+  {
+    "question": "Apart from the hen which other creature lays eggs?",
+    "answer": [
+      "Sparrows",
+      "Pythons",
+      "Turtles",
+      "Ducks",
+      "Penguins"
+    ]
+  },
+  {
+    "question": "What do you find in a picnic basket?",
+    "answer": [
+      "Blanket",
+      "Chips",
+      "Plates",
+      "Napkins",
+      "Fruit juice"
+    ]
+  },
+  {
+    "question": "Name one thing that is made from coconuts.",
+    "answer": [
+      "Oil",
+      "Milk",
+      "Coir",
+      "Drinks",
+      "Candy"
+    ]
+  },
+  {
+    "question": "Name something that won\u2019t work without a battery.",
+    "answer": [
+      "Toy car",
+      "Remote",
+      "Torchlight",
+      "Alarm clock",
+      "Car"
+    ]
+  },
+  {
+    "question": "Name a food that you can eat with ketchup.",
+    "answer": [
+      "Pizza",
+      "Chicken nuggets",
+      "French fries",
+      "Sandwich",
+      "Spring roll"
+    ]
+  },
+  {
+    "question": "Something that can be spread.",
+    "answer": [
+      "Rumor",
+      "Jam",
+      "Cream",
+      "Infection",
+      "Peanut butter"
+    ]
+  },
+  {
+    "question": "What do people miss about being a teenager?",
+    "answer": [
+      "Time",
+      "Energy",
+      "Looks",
+      "Freedom",
+      "Friends"
+    ]
+  },
+  {
+    "question": "What might a person do after college?",
+    "answer": [
+      "Get a job",
+      "Go traveling",
+      "Start a business",
+      "Get married",
+      "Join the military"
+    ]
+  },
+  {
+    "question": "Siblings fight over this.",
+    "answer": [
+      "Remote",
+      "Chocolates",
+      "Clothes",
+      "Who is more loved",
+      "Sharing a room"
+    ]
+  },
+  {
+    "question": "Name something which people often forget to switch off.",
+    "answer": [
+      "Light",
+      "Fan",
+      "Gas stove",
+      "Geyser",
+      "Television"
+    ]
+  },
+  {
+    "question": "Spilling/dropping this in the kitchen can make a huge mess.",
+    "answer": [
+      "Oil",
+      "Milk",
+      "Flour",
+      "Juice",
+      "Eggs"
+    ]
+  },
+  {
+    "question": "While choosing a hotel, you look for?",
+    "answer": [
+      "Large bed",
+      "Clean toilets",
+      "Clean towels",
+      "Breakfast",
+      "Wifi"
+    ]
+  },
+  {
+    "question": "When do dogs bark?",
+    "answer": [
+      "Strangers enter the house",
+      "Seeing a cat",
+      "Seeing other dogs",
+      "When hungry",
+      "At cars"
+    ]
+  },
+  {
+    "question": "Name a fruit-bearing tree you can grow in your backyard.",
+    "answer": [
+      "Apple",
+      "Mango",
+      "Guava",
+      "Orange",
+      "Lemon"
+    ]
+  },
+  {
+    "question": "Something that can get tangled.",
+    "answer": [
+      "Hair",
+      "Earphones",
+      "Rope string",
+      "Fishing net",
+      "Long chains"
+    ]
+  },
+  {
+    "question": "Something which people tend to misplace.",
+    "answer": [
+      "Keys",
+      "Documents",
+      "Jewelry",
+      "Mobile",
+      "Remote"
+    ]
+  },
+  {
+    "question": "What do people do if they cannot sleep?",
+    "answer": [
+      "Browse the internet",
+      "Chat with friends on the phone",
+      "Count sheep",
+      "Drink milk",
+      "Read a book"
+    ]
+  },
+  {
+    "question": "When do you throw a party?",
+    "answer": [
+      "Getting married",
+      "Promoted at work",
+      "Anniversary",
+      "New year",
+      "Birthday"
+    ]
+  },
+  {
+    "question": "How do you pass the time while on a flight?",
+    "answer": [
+      "Sleep",
+      "Read",
+      "Watch a movie",
+      "Look out of the window",
+      "Eat snacks"
+    ]
+  },
+  {
+    "question": "Name a profession that starts with the letter \u2018T\u2019.",
+    "answer": [
+      "Teacher",
+      "Tailor",
+      "Technician",
+      "Telemarketer",
+      "Truck driver"
+    ]
+  },
+  {
+    "question": "What could cause a traffic jam?",
+    "answer": [
+      "Rain",
+      "Fog",
+      "Accident",
+      "Broken traffic signals",
+      "Narrow roads"
+    ]
+  },
+  {
+    "question": "What do you double-check before going to sleep?",
+    "answer": [
+      "Door locks",
+      "Lights in all the rooms",
+      "Kids",
+      "Alarm",
+      "Mobile charging"
+    ]
+  },
+  {
+    "question": "What topics do families discuss when they get together?",
+    "answer": [
+      "Politics",
+      "Old times",
+      "Food",
+      "Family gossip",
+      "Kids/ education"
+    ]
+  },
+  {
+    "question": "Name something that is made of milk.",
+    "answer": [
+      "Coffee",
+      "Cheese",
+      "Butter",
+      "Smoothie",
+      "Yogurt"
+    ]
+  },
+  {
+    "question": "What do you need to make a smoothie?",
+    "answer": [
+      "Milk",
+      "Blender",
+      "Fruit",
+      "Ice",
+      "Nuts"
+    ]
+  },
+  {
+    "question": "Which food is served with melted butter on top?",
+    "answer": [
+      "Pancakes",
+      "Toast",
+      "Paratha",
+      "Mashed potatoes",
+      "Corn"
+    ]
+  },
+  {
+    "question": "What do people cram in the car while going to the beach?",
+    "answer": [
+      "Umbrellas",
+      "Beach chairs",
+      "Towels",
+      "Beach toys",
+      "Coolers"
+    ]
+  },
+  {
+    "question": "Things we tend to use until they are worn out.",
+    "answer": [
+      "Jeans",
+      "Shoes",
+      "Loofa",
+      "Mobile charger",
+      "Cooking pans"
+    ]
+  },
+  {
+    "question": "What punishment do parents give to children?",
+    "answer": [
+      "Time out",
+      "Grounded",
+      "No TV for a week",
+      "No dessert after dinner",
+      "Cutting down play time"
+    ]
+  },
+  {
+    "question": "What do we drink to keep us warm?",
+    "answer": [
+      "Coffee",
+      "Tea",
+      "Soup",
+      "Hot chocolate",
+      "Milk"
+    ]
+  },
+  {
+    "question": "Name something that can be spoiled.",
+    "answer": [
+      "Food",
+      "Mood",
+      "Surprise",
+      "Kids",
+      "Day"
+    ]
+  },
+  {
+    "question": "In which place do we find an elevator?",
+    "answer": [
+      "Hotel",
+      "Hospital",
+      "Office building",
+      "Mall",
+      "Airport"
+    ]
+  },
+  {
+    "question": "What do we do during the weekends?",
+    "answer": [
+      "Cleaning",
+      "Laundry",
+      "Cooking",
+      "Watching movie",
+      "Going out with family"
+    ]
+  },
+  {
+    "question": "Which body part could be missing on a pirate\u2019s body?",
+    "answer": [
+      "Eye",
+      "Ear",
+      "Tooth",
+      "Leg",
+      "Palm"
+    ]
+  },
+  {
+    "question": "Things you do while with friends.",
+    "answer": [
+      "Laugh",
+      "Talk",
+      "Tease",
+      "Eat",
+      "Play"
+    ]
+  },
+  {
+    "question": "Name something people donate.",
+    "answer": [
+      "Used clothes",
+      "Blood",
+      "Old toys",
+      "Books",
+      "Money"
+    ]
+  },
+  {
+    "question": "What is that you do not like to get in your mail?",
+    "answer": [
+      "Spam emails",
+      "Advertisements",
+      "Bulk emails",
+      "Product catalogs",
+      "Requests for donation"
+    ]
+  },
+  {
+    "question": "What do you do to an envelope before posting it?",
+    "answer": [
+      "Read the letter",
+      "Fold and place the letter inside",
+      "Write the To and From addresses",
+      "Seal it",
+      "Paste a stamp"
+    ]
+  },
+  {
+    "question": "What do you lose as you grow old?",
+    "answer": [
+      "Hair",
+      "Vision",
+      "Hearing ability",
+      "Memory",
+      "Teeth"
+    ]
+  },
+  {
+    "question": "What do you find in a hamburger?",
+    "answer": [
+      "Bread",
+      "Lettuce",
+      "Tomato",
+      "Meat patty",
+      "Sauce"
+    ]
+  },
+  {
+    "question": "How do people commute to work?",
+    "answer": [
+      "Car",
+      "Bus",
+      "Bike",
+      "Walk",
+      "Bicycle"
+    ]
+  },
+  {
+    "question": "What is something people do in sleep?",
+    "answer": [
+      "Snore",
+      "Talk",
+      "Shout",
+      "Drool",
+      "Walk"
+    ]
+  },
+  {
+    "question": "What do people have on their nightstand",
+    "answer": [
+      "Water",
+      "Alarm clock",
+      "Spectacles",
+      "Medicines",
+      "A novel"
+    ]
+  },
+  {
+    "question": "What do you find in a refrigerator?",
+    "answer": [
+      "Vegetables",
+      "Fruits",
+      "Eggs",
+      "Milk",
+      "Water"
+    ]
+  },
+  {
+    "question": "Which places are crowded during Christmas?",
+    "answer": [
+      "Malls",
+      "Gift shops",
+      "Restaurants",
+      "Churches",
+      "Streets"
+    ]
+  },
+  {
+    "question": "What do you do on a weekday morning?",
+    "answer": [
+      "Wake up early",
+      "Eat breakfast",
+      "Iron the outfit",
+      "Check emails",
+      "Go to work"
+    ]
+  },
+  {
+    "question": "What might you find under the cushions on the couch?",
+    "answer": [
+      "Money",
+      "Food",
+      "Keys",
+      "Small toys",
+      "Gum"
+    ]
+  },
+  {
+    "question": "Which junk foods do kids love?",
+    "answer": [
+      "Chips",
+      "Nuggets",
+      "French fries",
+      "Burgers",
+      "Pizza"
+    ]
+  },
+  {
+    "question": "What gift would you give a teenage boy on his birthday?",
+    "answer": [
+      "Video game",
+      "Shirt",
+      "Sports kit",
+      "Tablet",
+      "Books"
+    ]
+  },
+  {
+    "question": "When would you send food back while eating at a restaurant?",
+    "answer": [
+      "Cold",
+      "Half cooked",
+      "Has foreign objects",
+      "Tastes bland",
+      "Wrong order"
+    ]
+  },
+  {
+    "question": "Something parents wish a baby could do by itself.",
+    "answer": [
+      "Feed",
+      "Change diapers/ potty train",
+      "Go to sleep",
+      "Have bath",
+      "Dress up"
+    ]
+  },
+  {
+    "question": "Things you hate if you forget while going camping.",
+    "answer": [
+      "Tents",
+      "Spare clothes",
+      "Torch",
+      "Mosquito repellents",
+      "Beds"
+    ]
+  },
+  {
+    "question": "Riding a bike without this part is tough.",
+    "answer": [
+      "Handlebar",
+      "Tires",
+      "Brakes",
+      "Seats",
+      "Headlight"
+    ]
+  },
+  {
+    "question": "A place where cars line up to drive through.",
+    "answer": [
+      "Drive-in",
+      "Car wash",
+      "Parking",
+      "Gas station",
+      "Police convoy"
+    ]
+  },
+  {
+    "question": "What would you find in a doctor\u2019s suitcase?",
+    "answer": [
+      "Stethoscope",
+      "Prescription pad",
+      "Gloves",
+      "Scalper",
+      "Medicines"
+    ]
+  },
+  {
+    "question": "Unusual things toddlers play with.",
+    "answer": [
+      "Cooking pans",
+      "Sand",
+      "Blanket",
+      "Paper",
+      "Wires"
+    ]
+  },
+  {
+    "question": "Places that would be busy on a Valentine\u2019s Day.",
+    "answer": [
+      "Flower shop",
+      "Candy store",
+      "Gifts store",
+      "Restaurants",
+      "Malls"
+    ]
+  },
+  {
+    "question": "Something that takes people into the air.",
+    "answer": [
+      "Airplane",
+      "Hot air balloon",
+      "Parachute",
+      "Helicopter",
+      "Paraglider"
+    ]
+  },
+  {
+    "question": "What else does a pizza place serve?",
+    "answer": [
+      "Garlic bread",
+      "Soft drinks",
+      "Desserts",
+      "Fries",
+      "Coffee"
+    ]
+  },
+  {
+    "question": "Which home appliance can get hot?",
+    "answer": [
+      "Iron box",
+      "Oven",
+      "Heater",
+      "Toaster",
+      "Dryer"
+    ]
+  },
+  {
+    "question": "What are some of the alternatives to plastic bags?",
+    "answer": [
+      "Cloth bags",
+      "Paper bags",
+      "Jute bags",
+      "Canvas bags",
+      "Basket bags"
+    ]
+  },
+  {
+    "question": "What is something that requires your signature?",
+    "answer": [
+      "A check",
+      "An agreement",
+      "Shipment acknowledgment",
+      "Authorization letter",
+      "Email"
+    ]
+  },
+  {
+    "question": "What are most kids afraid of on their first day at kindergarten?",
+    "answer": [
+      "Parents leaving",
+      "Leaving home",
+      "Staying alone",
+      "Teachers",
+      "Not being liked by other kids"
+    ]
+  },
+  {
+    "question": "What is that people buy as a status symbol?",
+    "answer": [
+      "Cars",
+      "Houses",
+      "Jewelry",
+      "Exotic pets",
+      "Designer dresses"
+    ]
+  },
+  {
+    "question": "What do you find in an ice cream truck?",
+    "answer": [
+      "Ice cream cones",
+      "Popsicles",
+      "Icebox",
+      "Music box",
+      "Flavors of ice cream"
+    ]
+  },
+  {
+    "question": "What are the things women do to their hair?",
+    "answer": [
+      "Color",
+      "Curl",
+      "Straighten",
+      "Wash",
+      "Cut"
+    ]
+  },
+  {
+    "question": "Name something you might forget to do when running late for work.",
+    "answer": [
+      "Breakfast",
+      "Locking doors",
+      "Packing lunch",
+      "Combing hair",
+      "Pressing clothes"
+    ]
+  },
+  {
+    "question": "When do people post flyers?",
+    "answer": [
+      "Parties",
+      "Missing pets",
+      "Garage sale",
+      "Promoting business",
+      "Announcing workshops or festivals"
+    ]
+  },
+  {
+    "question": "Name a bad job for someone who is accident-prone.",
+    "answer": [
+      "Driver",
+      "Construction",
+      "Police officer",
+      "Surgeon",
+      "Electrician"
+    ]
+  },
+  {
+    "question": "What are the things moms say, but kids pretend not to hear?",
+    "answer": [
+      "Clean your room",
+      "Do not skip lunch",
+      "Do your homework",
+      "Eat your vegetables",
+      "Do not use the mobile phone all the time"
+    ]
+  },
+  {
+    "question": "How do grandparents spoil their grandchildren?",
+    "answer": [
+      "Do whatever they want",
+      "Protect them from parents\u2019 scolding",
+      "Give them candy",
+      "Make their favorite dish",
+      "Give them money"
+    ]
+  },
+  {
+    "question": "What can make you feel like a kid again?",
+    "answer": [
+      "Disneyland",
+      "Playing with kids",
+      "Riding a bicycle",
+      "Eating candy",
+      "Jumping"
+    ]
+  },
+  {
+    "question": "Which activities are scary and at the same time fun?",
+    "answer": [
+      "Roller coaster",
+      "Driving fast",
+      "Skydiving",
+      "Bungee jumping",
+      "Horror movies"
+    ]
+  },
+  {
+    "question": "What are the places where college students fall asleep?",
+    "answer": [
+      "Bed",
+      "Classroom",
+      "Library",
+      "Car/bus",
+      "Couch"
+    ]
+  },
+  {
+    "question": "What are the things that must be handy in case of an emergency?",
+    "answer": [
+      "Flashlight",
+      "Phone",
+      "First aid kit",
+      "Tool kit",
+      "Warm clothing"
+    ]
+  }
+]
