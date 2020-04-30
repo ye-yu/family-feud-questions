@@ -1,0 +1,438 @@
+[
+  {
+    "question": "Name a top-grossing movie of the 2000s.",
+    "answer": [
+      "Lord of the Rings",
+      "Avatar",
+      "Finding Nemo",
+      "Shrek",
+      "Pirates of the Caribbean"
+    ]
+  },
+  {
+    "question": "Name a sitcom that always seems to be re-running on TV.",
+    "answer": [
+      "The Big Bang Theory",
+      "Friends",
+      "Seinfeld",
+      "Frasier",
+      "Two and a Half Men",
+      "The Simpsons",
+      "The Fresh Prince of Bel-Air"
+    ]
+  },
+  {
+    "question": "Name an actress who doesn\u2019t star in enough movies.",
+    "answer": [
+      "Jennifer Lawrence",
+      "Julia Roberts",
+      "Sandra Bullock",
+      "Natalie Portman",
+      "Keira Knightley",
+      "Angelina Jolie"
+    ]
+  },
+  {
+    "question": "Name a Disney Princess.",
+    "answer": [
+      "Cinderella",
+      "Ariel",
+      "Jasmine",
+      "Belle",
+      "Elsa"
+    ]
+  },
+  {
+    "question": "Name a famous bear.",
+    "answer": [
+      "Smokey",
+      "Yogi",
+      "Ted / Teddy",
+      "Paddington",
+      "Winnie the Pooh"
+    ]
+  },
+  {
+    "question": "Name the title of a Harry Potter book or movie.",
+    "answer": [
+      "Deathly Hallows",
+      "Sorcerer's Stone / Philosopher's Stone",
+      "Cursed Child",
+      "Prisoner of Azkaban",
+      "Goblet of Fire"
+    ]
+  },
+  {
+    "question": "Name something associated with vampires.",
+    "answer": [
+      "Bats",
+      "Twilight",
+      "Blood / Drinking Blood",
+      "Garlic",
+      "Buffy",
+      "Cape",
+      "Dracula"
+    ]
+  },
+  {
+    "question": "Name a Disney movie that\u2019s been remade.",
+    "answer": [
+      "The Lion King",
+      "Aladdin",
+      "Cinderella",
+      "The Jungle Book",
+      "Beauty and the Beast",
+      "The Little Mermaid",
+      "Mulan"
+    ]
+  },
+  {
+    "question": "Name a top sitcom of the 2000s.",
+    "answer": [
+      "The Big Bang Theory",
+      "Friends",
+      "How I Met Your Mother",
+      "The Office",
+      "Two and a Half Men",
+      "Scrubs"
+    ]
+  },
+  {
+    "question": "Name an actor who started out as an athlete.",
+    "answer": [
+      "The Rock",
+      "John Cena",
+      "Shaq",
+      "Bruce Lee",
+      "Arnold Schwarzenegger"
+    ]
+  },
+  {
+    "question": "Other than lunch, name a meal you see people eating on TV.",
+    "answer": [
+      "Dinner",
+      "Breakfast",
+      "Brunch",
+      "Snack",
+      "Drinks / Coffee",
+      "Holiday Meal"
+    ]
+  },
+  {
+    "question": "Besides making phone calls, name something specific for which people use their cell phones.",
+    "answer": [
+      "Texting",
+      "Camera / Taking Pictures",
+      "Surf the Internet",
+      "Social Media",
+      "Email",
+      "Games",
+      "Clock",
+      "Flashlight",
+      "Dating"
+    ]
+  },
+  {
+    "question": "Name a famous mustachioed man.",
+    "answer": [
+      "Steve Harvey",
+      "Tom Selleck",
+      "Ron Swanson",
+      "Santa",
+      "Jeff Foxworthy"
+    ]
+  },
+  {
+    "question": "Name a specific city that people in movies visit while on vacation.",
+    "answer": [
+      "Las Vegas",
+      "New York",
+      "Los Angeles",
+      "Ft. Lauderdale"
+    ]
+  },
+  {
+    "question": "Name a famous chef.",
+    "answer": [
+      "Gordon Ramsay",
+      "Julia Childs",
+      "Jacques Pepin",
+      "Alton Brown",
+      "Rachel Ray",
+      "Martha Stewart"
+    ]
+  },
+  {
+    "question": " Name a male movie star whose looks are his greatest asset.",
+    "answer": [
+      "Ryan Gosling",
+      "Ryan Reynolds",
+      "George Clooney",
+      "Matthew McConaughey",
+      "Brad Pitt"
+    ]
+  },
+  {
+    "question": "Name someone who dated Jennifer Lopez.",
+    "answer": [
+      "Alex Rodriguez",
+      "Marc Anthony",
+      "P. Diddy / Sean Combs",
+      "Ben Affleck"
+    ]
+  },
+  {
+    "question": "Name a famous Boat or Ship.",
+    "answer": [
+      "The Titanic",
+      "The Love Boat",
+      "The Maine",
+      "African Queen",
+      "The Mayflower"
+    ]
+  },
+  {
+    "question": "Name a famous bald person.",
+    "answer": [
+      "The Rock",
+      "Steve Harvey",
+      "Patrick Stewart",
+      "Michael Jordan",
+      "Jeff Bezos",
+      "George Washington",
+      "Shaq"
+    ]
+  },
+  {
+    "question": "What might be the first name of a Queen of England?",
+    "answer": [
+      "Elizabeth",
+      "Victoria",
+      "Anne",
+      "Mary",
+      "Catherine"
+    ]
+  },
+  {
+    "question": "Name something TV kids dress up as on Halloween.",
+    "answer": [
+      "Ghost",
+      "Superhero",
+      "Celebrity",
+      "Pirate"
+    ]
+  },
+  {
+    "question": "Name a classic Arcade Game.",
+    "answer": [
+      "Pac-Man",
+      "Mrs. Pac-Man",
+      "Donkey Kong",
+      "Street FIghter",
+      "Mortal Kombat",
+      "Pong",
+      "Asteroids",
+      "Tetris"
+    ]
+  },
+  {
+    "question": "Name one of the highest-earning actors of 2019.",
+    "answer": [
+      "Dwayne \u201cThe Rock\u201d Johnson",
+      "Will Smith",
+      "George Clooney",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Hugh Jackman"
+    ]
+  },
+  {
+    "question": "Name a part of an Actor\u2019s body to which a director might apply CGI.",
+    "answer": [
+      "Face",
+      "Butt",
+      "Groin / Nudity",
+      "Hourglass Figure / Bosom",
+      "Tattoo",
+      "Limbs"
+    ]
+  },
+  {
+    "question": "Name a great movie series with tons of movies.",
+    "answer": [
+      "Marvel / The Avengers",
+      "Star Wars",
+      "Star Trek",
+      "The Fast And The Furious",
+      "Harry Potter",
+      "Lord of the Rings",
+      "Cars",
+      "Twilight"
+    ]
+  },
+  {
+    "question": "Name a classic Steven Spielberg movie.",
+    "answer": [
+      "Jaws",
+      "Indiana Jones",
+      "E.T.",
+      "Jurassic Park",
+      "Schindler's List",
+      "Saving Private Ryan",
+      "The Color Purple"
+    ]
+  },
+  {
+    "question": "Name a play that ran for a long time on Broadway.",
+    "answer": [
+      "Hamilton",
+      "Phantom of the Opera",
+      "Cats",
+      "Chicago",
+      "Wicked",
+      "A Chorus Line",
+      "Rent",
+      "Fiddler on the Roof"
+    ]
+  },
+  {
+    "question": "Name a movie that\u2019s on TV around Christmas.",
+    "answer": [
+      "It's a Wonderful Life",
+      "Rudolph",
+      "Elf",
+      "Christmas Story",
+      "Frosty the Snowman",
+      "Home Alone",
+      "Die Hard"
+    ]
+  },
+  {
+    "question": "Name a best-selling pop musical act of the 2010s.",
+    "answer": [
+      "Taylor Swift",
+      "Justin Bieber",
+      "Ed Sheeran",
+      "Adele",
+      "Katy Perry",
+      "Ariana Grande",
+      "Luke Bryan"
+    ]
+  },
+  {
+    "question": "Name a paid service that creates TV shows.",
+    "answer": [
+      "Netflix",
+      "Hulu",
+      "HBO",
+      "Amazon"
+    ]
+  },
+  {
+    "question": "Name a classic TV show for younger kids that began before 2010.",
+    "answer": [
+      "Barney",
+      "Teletubbies",
+      "Mr. Rogers Neighborhood",
+      "Dora the Explorer",
+      "Sesame Street",
+      "Spongebob"
+    ]
+  },
+  {
+    "question": "Name something for which Kim Kardashian is famous.",
+    "answer": [
+      "Ray J / Home Video",
+      "Reality TV / The Kardashians show / Keeping up with the Kardashians",
+      "Butt / Figure",
+      "Social Media",
+      "Kardashians Family",
+      "Kanye / Children"
+    ]
+  },
+  {
+    "question": "Name a section you might see in a newspaper.",
+    "answer": [
+      "Sports",
+      "Obituaries",
+      "Local",
+      "Classifieds",
+      "Business",
+      "Comics",
+      "Front Page"
+    ]
+  },
+  {
+    "question": "Name a movie or show in which Chris Pratt appeared.",
+    "answer": [
+      "Avengers / Guardians of the Galaxy",
+      "Parks and Rec",
+      "Jurassic Park",
+      "Everwood",
+      "Passengers"
+    ]
+  },
+  {
+    "question": "Name a character from the Star Wars movies.",
+    "answer": [
+      "Luke Skywalker",
+      "Han Solo",
+      "Darth Vader",
+      "Princess Leia",
+      "Kylo Ren",
+      "Rey",
+      "Chewbacca",
+      "Yoda",
+      "R2-D2"
+    ]
+  },
+  {
+    "question": "Name a sugary cereal.",
+    "answer": [
+      "Frosted Flakes",
+      "Froot Loops",
+      "Apple Jacks",
+      "Fruity Pebbles",
+      "Captain Crunch",
+      "Cookie Crisp"
+    ]
+  },
+  {
+    "question": "Name something for which you might see a commercial during the Super Bowl.",
+    "answer": [
+      "Cars / Trucks",
+      "Medication / Drugs",
+      "Food / Fast Food",
+      "Football Merchandise",
+      "Financial Planning"
+    ]
+  },
+  {
+    "question": "How many times has the average A-Lister been married?",
+    "answer": [
+      "2",
+      "1",
+      "0",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Name a famous American newspaper.",
+    "answer": [
+      "New York Times",
+      "Washington Post",
+      "USA Today",
+      "Wall Street Journal"
+    ]
+  },
+  {
+    "question": "Name a game played with a deck of cards.",
+    "answer": [
+      "Poker / Texas Hold\u2019em",
+      "Blackjack",
+      "Solitaire",
+      "Go Fish"
+    ]
+  }
+]

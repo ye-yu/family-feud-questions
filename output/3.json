@@ -1,0 +1,473 @@
+[
+  {
+    "question": "Name an Olympic sport you'd watch more often if it were played in the nude.",
+    "answer": [
+      "Volleyball",
+      "Gymnastics",
+      "Swimming",
+      "Soccer",
+      "Wrestling",
+      "Tennis",
+      "Track / Field"
+    ]
+  },
+  {
+    "question": "Where might you hide something you wanted to smuggle into prison?",
+    "answer": [
+      "In a cake",
+      "Up your butt",
+      "Underwear",
+      "Bra",
+      "Shoe",
+      "Socks",
+      "Bribe / With guard",
+      "Hair"
+    ]
+  },
+  {
+    "question": "On which topic might a father give advice to his son?",
+    "answer": [
+      "Women / Relationships",
+      "Jobs",
+      "Personal finance",
+      "Children / Family",
+      "Drugs / Alcohol",
+      "Driving",
+      "Sports"
+    ]
+  },
+  {
+    "question": "Name something a person on a diet might order at a restaurant.",
+    "answer": [
+      "Salad",
+      "Fish",
+      "Chicken",
+      "Water",
+      "Fruit / Veggies",
+      "Eggs"
+    ]
+  },
+  {
+    "question": "How many hours of sleep do you need each night to feel awake the next day?",
+    "answer": [
+      "8 Hours",
+      "6 Hours",
+      "7 Hours",
+      "9 Hours",
+      "5 Hours",
+      "10 Hours",
+      "4 Hours"
+    ]
+  },
+  {
+    "question": "Name a language that makes anything sound sexy.",
+    "answer": [
+      "French",
+      "Italian",
+      "Spanish",
+      "British / English",
+      "Portuguese",
+      "German",
+      "Japanese"
+    ]
+  },
+  {
+    "question": "Name a part of the body people see a plastic surgeon about.",
+    "answer": [
+      "Boobs",
+      "Nose",
+      "Belly",
+      "Lips",
+      "Butt",
+      "Face / Forehead"
+    ]
+  },
+  {
+    "question": "Name something you do not want to do on a Sunday.",
+    "answer": [
+      "Wake up early",
+      "Work",
+      "Errands",
+      "Chores",
+      "Church",
+      "Cook",
+      "Anything"
+    ]
+  },
+  {
+    "question": "What's the first thing you would do if you inherited a million dollars?",
+    "answer": [
+      "Quit job",
+      "New car",
+      "New house",
+      "Take a vacation",
+      "New boat",
+      "Pay off debt",
+      "Invest",
+      "Drugs"
+    ]
+  },
+  {
+    "question": "Name a fruit that reminds you of a part of the human body.",
+    "answer": [
+      "Banana",
+      "Peach",
+      "Watermelon",
+      "Cantaloupe",
+      "Coconut",
+      "Eggplant",
+      "Grape"
+    ]
+  },
+  {
+    "question": "Name an athlete who made the news for being involved in a big scandal.",
+    "answer": [
+      "Lance Armstrong",
+      "Tiger Woods",
+      "O.J. Simpson",
+      "Barry Bonds",
+      "Mike Tyson",
+      "Colin Kaepernick",
+      "Oscar Pistorius",
+      "Michael Vick"
+    ]
+  },
+  {
+    "question": "Name a place you might pick up a date who isn't interested in a serious relationship.",
+    "answer": [
+      "Bar",
+      "Club",
+      "Tinder",
+      "College",
+      "Party",
+      "The mall"
+    ]
+  },
+  {
+    "question": "Name a food you might buy from a cart at the park.",
+    "answer": [
+      "Ice cream",
+      "Hot dog",
+      "Pretzel",
+      "Soft drink",
+      "Water",
+      "Churro"
+    ]
+  },
+  {
+    "question": "Name the month in the year that has the most babies born.",
+    "answer": [
+      "November",
+      "September",
+      "March",
+      "December",
+      "June",
+      "January",
+      "July"
+    ]
+  },
+  {
+    "question": "Name a reason people take out a loan.",
+    "answer": [
+      "Buy house",
+      "Buy car",
+      "Education",
+      "Pay debt",
+      "Start a business",
+      "Gambling"
+    ]
+  },
+  {
+    "question": "Name something that is often made out of rubber.",
+    "answer": [
+      "Tire",
+      "Ball",
+      "Rubber band",
+      "Boots / Shoes",
+      "Gloves",
+      "Prophylactic",
+      "Rubber chicken",
+      "Eraser"
+    ]
+  },
+  {
+    "question": "Name something people do when they try to get out of speeding tickets.",
+    "answer": [
+      "Cry",
+      "Flirt",
+      "Plead innocence / ignorance",
+      "Offer money",
+      "Ask for warning",
+      "Be honest",
+      "Drive away",
+      "Ask for selfie",
+      "Offer body"
+    ]
+  },
+  {
+    "question": "Name a specific issue the Democrats and Republicans never seem to agree on.",
+    "answer": [
+      "Immigration",
+      "Abortion",
+      "Gay marriage",
+      "Taxes",
+      "Who should be President",
+      "Budget",
+      "Environment",
+      "Education"
+    ]
+  },
+  {
+    "question": "Who do you really hope not to run into when you are out on a date?",
+    "answer": [
+      "Ex",
+      "Co-worker / Boss",
+      "Parent",
+      "Friend",
+      "Sibling",
+      "Spouse",
+      "Mugger",
+      "Drunk",
+      "Priest"
+    ]
+  },
+  {
+    "question": "Other than a speed bump, name something that many drivers violate, even though it is meant to control traffic.",
+    "answer": [
+      "Stop sign",
+      "Carpool lane",
+      "Red light",
+      "Yellow light",
+      "Yield sign"
+    ]
+  },
+  {
+    "question": "Name something you really hope your airplane pilot isn't doing.",
+    "answer": [
+      "Taking a nap",
+      "Drugs",
+      "Drinking",
+      "Texting / On phone",
+      "Stewardess",
+      "Bathroom break"
+    ]
+  },
+  {
+    "question": "After how many dates is a relationship considered \"serious\"?",
+    "answer": [
+      "5 dates",
+      "4 dates",
+      "3 dates",
+      "10 dates",
+      "2 dates",
+      "1 date"
+    ]
+  },
+  {
+    "question": "Name a place that would be profitable to rob if you could get away with it.",
+    "answer": [
+      "Bank",
+      "Jewelry store",
+      "Casino",
+      "Museum",
+      "Car dealership",
+      "Boutique"
+    ]
+  },
+  {
+    "question": "If you heard your bedroom door open as you made love, who would you really hope not to see when you looked up?",
+    "answer": [
+      "Your kid",
+      "Your parent",
+      "In-law",
+      "Maid",
+      "Robber",
+      "Sibling",
+      "Spouse",
+      "Serial Killer"
+    ]
+  },
+  {
+    "question": "Who is most likely to know a man's most embarrassing secret?",
+    "answer": [
+      "Romantic partner",
+      "Parent",
+      "Best friend",
+      "Sibling",
+      "His dog",
+      "Doctor"
+    ]
+  },
+  {
+    "question": "Name a movie actress whose looks are her greatest asset.",
+    "answer": [
+      "Angelina Jolie",
+      "Julia Roberts",
+      "Halle Berry",
+      "Scarlett Johansson",
+      "Megan Fox",
+      "Kate Upton",
+      "Jessica Alba"
+    ]
+  },
+  {
+    "question": "Name a profession that might sometimes require its members to be naked.",
+    "answer": [
+      "Stripper",
+      "Model",
+      "Acting",
+      "Prostitute"
+    ]
+  },
+  {
+    "question": "Name someone who was a world leader during World War 2.",
+    "answer": [
+      "Roosevelt",
+      "Hitler",
+      "Churchill",
+      "Stalin",
+      "Hirohito",
+      "Mussolini",
+      "Eisenhower",
+      "Truman",
+      "MacArthur"
+    ]
+  },
+  {
+    "question": "What might a woman do when she catches her man checking out another woman?",
+    "answer": [
+      "Hit him",
+      "Yell / Call him on it",
+      "Check her out too",
+      "Dirty look",
+      "Withhold sex",
+      "Walk away",
+      "Laugh",
+      "Cry",
+      "Beat up other woman"
+    ]
+  },
+  {
+    "question": "Tell me something a man might do to get a woman \"in the mood\".",
+    "answer": [
+      "Kiss her",
+      "Light candles",
+      "Massage her",
+      "Strip",
+      "Turn down lights",
+      "Bring her flowers",
+      "Cook for her"
+    ]
+  },
+  {
+    "question": "Name a specific body part that might get blurred on TV.",
+    "answer": [
+      "Boobs",
+      "Male genitalia",
+      "Female genitalia",
+      "Butt",
+      "Middle finger",
+      "Mouth"
+    ]
+  },
+  {
+    "question": "Name something that adults are afraid of, even though they should know better.",
+    "answer": [
+      "Ghosts",
+      "Monsters",
+      "The dark",
+      "Aliens",
+      "The dentist",
+      "Taxes"
+    ]
+  },
+  {
+    "question": "If someone asked you out on a date, what's an excuse you might give if you weren't interested?",
+    "answer": [
+      "In a relationship",
+      "\"Not interested\"",
+      "Gay",
+      "Busy",
+      "Not dating right now",
+      "Don't live around here"
+    ]
+  },
+  {
+    "question": "Name a gift you can pick up at the last minute.",
+    "answer": [
+      "Gift certificate",
+      "Cash",
+      "Flowers",
+      "Book",
+      "Candy",
+      "Liquor",
+      "Card"
+    ]
+  },
+  {
+    "question": "Name the first letter of a word that's likely to be bleeped on TV.",
+    "answer": [
+      "F",
+      "S",
+      "C",
+      "M",
+      "H",
+      "P",
+      "T",
+      "D"
+    ]
+  },
+  {
+    "question": "When a man gets a new woman during his midlife crisis, how old is she?",
+    "answer": [
+      "25",
+      "18",
+      "21",
+      "20",
+      "30",
+      "65+"
+    ]
+  },
+  {
+    "question": "Name a holiday kids enjoy more than adults.",
+    "answer": [
+      "Christmas",
+      "Birthdays",
+      "Halloween",
+      "Easter",
+      "Christmas Eve"
+    ]
+  },
+  {
+    "question": "Name someone who ran for U.S. President and did not win.",
+    "answer": [
+      "Hilary Clinton",
+      "Al Gore",
+      "Bernie Sanders",
+      "Thomas E. Dewey",
+      "Ralph Nader",
+      "John McCain"
+    ]
+  },
+  {
+    "question": "Name something that you probably shouldn't send in an email.",
+    "answer": [
+      "Naked pictures",
+      "Password",
+      "Social Security Number",
+      "Virus",
+      "Money"
+    ]
+  },
+  {
+    "question": "Name a word or phrase that contains the word \"strip\".",
+    "answer": [
+      "Stripper",
+      "Strip club",
+      "Strip mall",
+      "Strip tease",
+      "Air strip",
+      "Landing strip"
+    ]
+  }
+]
